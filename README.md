@@ -1,4 +1,4 @@
-# Wallpaper-Application
+# WOOP-Wallpaper-Application
 
 These is a **wallpaper application** made on Android Studio using java programming language where you can find your favorite wallpaper which you can easily select and set on any mobile devices.
 
